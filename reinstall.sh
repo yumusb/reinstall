@@ -1829,7 +1829,7 @@ verify_os_name() {
         'oracle      8|9' \
         'fedora      41|42' \
         'nixos       25.05' \
-        'debian      9|10|11|12' \
+        'debian      9|10|11|12|13' \
         'opensuse    15.6|16.0|tumbleweed' \
         'alpine      3.19|3.20|3.21|3.22' \
         'openeuler   20.03|22.03|24.03|25.03' \
